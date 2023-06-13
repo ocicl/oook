@@ -1,0 +1,10 @@
+* oook
+
+OOOK! Streamlined relational database interfacing for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rmhsilva/oook.git   |
+| commit  | 7ba6a8c  |
+| systems | oook |
+|---------+-------------------------------------------|
+
